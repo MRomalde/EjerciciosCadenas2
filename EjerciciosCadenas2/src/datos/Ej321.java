@@ -1,5 +1,5 @@
 package datos;
 
-public class Ej0 {
+public class Ej321 {
 
 }
